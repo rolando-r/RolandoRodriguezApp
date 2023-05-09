@@ -1,0 +1,118 @@
+{
+  "campers": [
+    {
+      "id": "1",
+      "nombres": "rr",
+      "edad": "12",
+      "nroMovil": "323323",
+      "email": "xxx",
+      "direccion": "xxx",
+      "fechaNacimiento": "2023-05-05",
+      "fechaIngreso": "2023-03-02",
+      "id_team": "3"
+    },
+    {
+      "id": "asd",
+      "nombres": "sad",
+      "edad": "0",
+      "nroMovil": "32",
+      "email": "sad@gmail.com",
+      "direccion": "sad",
+      "fechaNacimiento": "2023-05-26",
+      "fechaIngreso": "2023-05-10"
+    },
+    {
+      "id": "rolando3432",
+      "nombres": "rolando",
+      "edad": "17",
+      "nroMovil": "316",
+      "email": "sad@gmail.com",
+      "direccion": "das",
+      "fechaNacimiento": "2023-05-11",
+      "fechaIngreso": "2023-05-03"
+    },
+    {
+      "id": "123",
+      "nombres": "juan",
+      "edad": "5",
+      "nroMovil": "333",
+      "email": "sad@gmail.com",
+      "direccion": "sasa",
+      "fechaNacimiento": "2023-05-03",
+      "fechaIngreso": "2023-05-01"
+    },
+    {
+      "id": "2131",
+      "nombres": "rol",
+      "edad": "3",
+      "nroMovil": "31",
+      "email": "awa@gmail.com",
+      "direccion": "cac",
+      "fechaNacimiento": "2023-05-02",
+      "fechaIngreso": "2023-05-03",
+      "numeroIdentificacion": "2023-05-24"
+    },
+    {
+      "id": "23",
+      "nombres": "sad",
+      "edad": "2",
+      "nroMovil": "2323",
+      "email": "awa@gmail.com",
+      "direccion": "sdad",
+      "fechaNacimiento": "2023-05-10",
+      "fechaIngreso": "2023-04-30",
+      "numeroIdentificacion": "3343"
+    },
+    {
+      "id": "22",
+      "nombres": "asds",
+      "edad": "23",
+      "nroMovil": "12",
+      "email": "awita@gmail.com",
+      "direccion": "csa",
+      "fechaNacimiento": "",
+      "fechaIngreso": "",
+      "numeroIdentificacion": "23"
+    },
+    {
+      "id": "asds",
+      "nombres": "sda",
+      "edad": "1",
+      "nroMovil": "33",
+      "email": "awita@gmail.com",
+      "direccion": "asd",
+      "fechaNacimiento": "2023-05-22",
+      "fechaIngreso": "2023-05-03",
+      "numeroIdentificacion": "23",
+      "team": "artemis"
+    },
+    {
+      "id": "asad",
+      "nombres": "askeladd",
+      "edad": "2",
+      "nroMovil": "324",
+      "email": "awa@gmail.com",
+      "direccion": "cas",
+      "fechaNacimiento": "2023-05-16",
+      "fechaIngreso": "2023-05-10",
+      "numeroIdentificacion": "2332",
+      "team": "apolo"
+    },
+    {
+      "id": "sda",
+      "nombres": "saso",
+      "edad": "435",
+      "nroMovil": "32",
+      "email": "edsaew@gmail.com",
+      "direccion": "dasd",
+      "fechaNacimiento": "2023-05-02",
+      "fechaIngreso": "2023-05-17",
+      "numeroIdentificacion": "asda",
+      "team": "sputnik"
+    }
+  ],
+  "team": [],
+  "skill": [],
+  "modulo_skill": [],
+  "evaluacion": []
+}
