@@ -19,7 +19,7 @@ To deploy this project run
 
 ## Documentation
 
-[C# docs](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[JS docs](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
 ## Run Locally
 
